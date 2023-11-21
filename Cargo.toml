@@ -1,0 +1,5 @@
+[package]
+name = "openxr-actions-test"
+version = "0.0.1"
+authors = ["Desmond Germans <desmond@germansmedia.nl>"]
+edition = "2021"
